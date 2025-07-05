@@ -138,6 +138,113 @@ This project demonstrates how Excel can be used not just for reporting but for e
 
 
 
+# Palmoria Group HR Analytics Project
+
+## Project Overview
+his Power BI HR Analytics Dashboard analyzes gender inequality, pay gaps, and salary compliance at Palmoria Group, a manufacturing company in Nigeria. The project was developed to address media reports of gender bias and ensure fair compensation practices.
+
+##  Business Problem
+
+- Palmoria Group faced negative publicity due to gender inequality allegations, including:
+
+- Gender pay gaps (Male employees earning significantly more)
+
+- Unequal representation in leadership & technical roles
+
+- Non-compliance with Nigeria’s $90,000 minimum salary regulation
+
+### Data Sources & Cleaning
+
+1. Employee Data (CSV)
+Columns: Name, Gender, Department, Salary, Location, Rating
+
+Cleaning Steps:
+
+    - Replaced missing genders with "Undisclosed"
+
+    - Removed employees with NULL departments
+
+    - Filtered out employees without salary data
+
+2. Bonus Rules (Excel)
+ Structured as: Department → Performance Rating → Bonus %
+
+- Transformed into a lookup table for DAX calculations
+
+### Key Insights
+
+Gender Distribution
+ - 58% Male, 40% Female, 2% Undisclosed
+ 
+ - Engineering & Product Management had the highest male dominance (70%)
+ 
+ - Abuja had the most balanced gender ratio
+
+2. Gender Pay Gap
+ - Male employees earned $12K more on average
+ - Engineering had the widest gap ($18K difference)
+ - Kaduna region had the highest disparity ($14K gap)
+
+3. Salary Compliance
+ - 72% of employees earned below $90K (legal requirement)
+ - Kaduna was worst (78% non-compliance)
+
+
+4. Bonus Allocation
+ - Total Bonus Payout = $X Million
+ - Sales & Engineering received the highest bonuses
+ - "Very Good" ratings got 6-8% bonuses
+
+
+### Power BI Implementation
+
+Features:
+- Interactive filters (Gender, Department, Location)
+
+ - Drill-down capability (Region → Department → Employees)
+
+ - Dynamic measures (DAX for pay gap, compliance, bonuses)
+
+Dashboard Pages:
+
+Gender Overview
+
+Pay Gap & Compliance
+
+Bonus Calculations
+
+Recommendations
+
+
+###  Recommendations
+
+Close the Pay Gap
+
+- Audit salaries in Engineering & Product Management
+
+- Adjust female salaries in Kaduna region
+
+- Improve Gender Diversity
+
+- Hiring quotas for women in male-dominated departments
+
+- Leadership mentorship programs
+
+- Meet Salary Regulations
+
+- Prioritize raises for lowest-paid employees
+
+- Phase in compliance within 12 months
+
+
+
+
+
+
+
+
+
+
 
 
 
