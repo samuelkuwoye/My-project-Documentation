@@ -243,6 +243,7 @@ Close the Pay Gap
 
 
 
+<img width="1366" height="768" alt="Screenshot 2025-07-18 222750" src="https://github.com/user-attachments/assets/ee7b1700-6626-41bf-8562-e07af274046f" />
 
 
 
@@ -253,6 +254,7 @@ Close the Pay Gap
 
 
 
+<img width="1366" height="768" alt="Screenshot 2025-07-18 223130" src="https://github.com/user-attachments/assets/41020fd3-faa9-454a-ac41-7f88be6cbc8c" />
 
 
 
