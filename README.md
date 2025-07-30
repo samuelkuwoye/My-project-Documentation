@@ -129,6 +129,24 @@ Built entirely in Microsoft Excel, the interactive dashboard includes:
 ![image](https://github.com/user-attachments/assets/baf7555c-f0f9-4acb-958c-ccdfca3a5f3c)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###  Conclusion
 This project demonstrates how Excel can be used not just for reporting but for end-to-end exploratory data analysis and dashboard creation. It bridges data cleaning, aggregation, visualization, and insight generation
 
